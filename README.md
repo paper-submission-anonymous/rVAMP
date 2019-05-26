@@ -1,4 +1,4 @@
-# Replicated Vector Approximate Message Passing
+# Replicated vector approximate message passing
 A Python implementation of replicated Vector Approximate Message Passing (rVAMP) algorithm.
 Current implementation is specialized to application to Stability Selection for LASSO.
 
