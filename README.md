@@ -20,4 +20,4 @@ to run experiments
 
 
 # experiment guide
-* to reproduce Figure 1 and 2 in the paper, see *EXPERIMENT GUIDE.md* in *Experiment_code_for_NeurIPS_paper*
+* to reproduce Figure 1 and 2 in the paper, see *EXPERIMENT GUIDE.md* in *Experiment_code_for_paper*
